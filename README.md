@@ -6,7 +6,7 @@ This project consists of a given website created using basic HTML/CSS where we a
 
 - Color: Changing the text color to white makes the text much easier to read compared to the black
 
-- Semantic HTML: I updated the HTML to put all the titles in respective h1,h2, and h3 tags, and to put all the text in > tags which they weren't in. I also updated the names of therespective css classes to match the new tags. I also used the nav tag for the navigation div and updated the css for it as well.
+- Semantic HTML: I updated the HTML to put all the titles in respective h1,h2, and h3 tags, and to put all the text in p tags which they weren't in. I also updated the names of therespective css classes to match the new tags. I also used the nav tag for the navigation div and updated the css for it as well.
 
 - The Images: Added alt text for each image describing what it is for screen reader users
 
